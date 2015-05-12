@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title>Log Experiment</title>
+	</head>
+	<body>
+		{%for entry in entries%}
+		{{entry['datetime']}} |--| {{entry['severity']}} |--| {{entry['message']}} <br>
+		{% endfor %}

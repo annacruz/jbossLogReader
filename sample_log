@@ -1,0 +1,6 @@
+08:01:35,756 INFO  [br.com.myPackage.myClass] (ajp-/127.0.0.1:8009-2) 24/04/2015 08:01:35 John Doe evento:LOGIN recurso:Sistema 'Usuário logou no sistema'
+08:01:35,826 DEBUG [br.com.myPackage.myOtherClass] (ajp-/127.0.0.1:8009-2) Sample debug message
+08:01:39,130 DEBUG [br.com.myPackage.myOtherClass] (ajp-/127.0.0.1:8009-2) User Operations:[SEE_PROCS, INCLUDE_USERS, FILL]
+08:01:39,130 DEBUG [br.com.myPackage.myOtherClass] (ajp-/127.0.0.1:8009-2) CRONOS update(USER)):3304
+08:01:40,122 DEBUG [br.com.myPackage.myOtherClass] (ajp-/127.0.0.1:8009-2) Starting User
+08:01:41,240 DEBUG [br.com.myPackage.myOtherClass] (ajp-/127.0.0.1:8009-2) User updated:581
